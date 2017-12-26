@@ -1,0 +1,15 @@
+
+@media (min-width: 768px)
+{
+	header.masthead .intro-text .intro-heading {
+		font-size: 42px;
+	}
+	
+}
+
+@media (min-width: 992px)
+{
+	#mainNav.navbar-shrink {
+		background-color: #781316;
+	}
+}
